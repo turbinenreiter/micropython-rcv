@@ -10,6 +10,7 @@ micropython-rcv is a micropython module to get input from RC receivers.
 
 Connect the signal pin of the channel you want to use to an input pin on the pyboard.
 
+### Quickstart
 
 Example:
 ```python
