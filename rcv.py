@@ -29,7 +29,7 @@ SOFTWARE.
 import pyb
 import gc
 
-class Reciever():
+class Receiver():
     '''This class provides a reader to get input from RC-receivers. Pass a list of pins on which the channels are connected.'''
 
     def __init__(self, channels):
